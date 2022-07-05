@@ -115,6 +115,9 @@ h4 {
 	height: 6em;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.08);
 	position: relative; 
+	max-width: 96em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .bubble {
@@ -236,6 +239,15 @@ h4 {
   .wrap {
 		margin: 0em auto; 
 	} 
+
+	.bubble {
+		width: 20em;
+		height: 20em;
+		left: auto;
+		right: 20px;
+		
+	}
+
 }
 /* ==========================================================================
    Over 980 width
