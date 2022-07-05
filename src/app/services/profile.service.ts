@@ -8,17 +8,17 @@ export class ProfileService {
 	// ideally this comes from a http-request, for now mock-data
 	getProfile() {
 		return {
-			userName: 'Mikkel Ørum Skovgaard-Petersen',
-			title: 'UI designer and front-end developer',
-			phone: '+45 2687 8061',
-			email: 'mikkeloerum@hey.com',
-			address: 'Zincksvej 7a, Godthåb',
+			userName: 'Anna Maria Suárez-Bárcena Ørum',
+			title: 'UX/Interation designer',
+			phone: '+45 2665 1643',
+			email: 'anna.suarez.barcena@outlook.com',
+			address: 'Hadsundvej 11A, 9000 Aalborg',
 			intro: [
 				'I focus on solving problems over implementing features!',
 				'I am a designer using code as my primary tool. I build software, using the technologies that enable me to do so most efficiently. I always think about the big picture before I start coding - it is not enough to be precise, accuracy is needed too in order to build the right solution.',
 				'I focus on delivering great software that not only works well for the users, but ties in well with the overall business goals. I prefer to work closely with users to understand the challenges they face and come up with the best solutions in collaboration with them.',
 			],
-			linkedIn: 'https://www.linkedin.com/in/mikkeloerum/',
+			linkedIn: 'https://www.linkedin.com/in/amsbo/',
 			positions: [
 				{
 					title: 'Development Senior Specialist - Front-end',
